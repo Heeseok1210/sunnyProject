@@ -78,7 +78,8 @@
 
 
 ##  흐름도
-![흐름도](./image/flowMap.png)
+![흐름도](https://github.com/Heeseok1210/sunnyProject/assets/126428471/2ad4e509-674a-4cca-8d40-dd92588cc4e5)
+
 
 ## ERD
 ![ERD](./image/ERD.png)
