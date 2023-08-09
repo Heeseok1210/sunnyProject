@@ -72,9 +72,9 @@
 - 식고수 신청 관리
 
 ## 맡은 서비스
-### - 스토리 리스트  - <a href="" >상세보기 - WIKI 이동</a>
-### - 스토리 작성/읽기  - <a href="" >상세보기 - WIKI 이동</a>
-### - 스토리 수정/삭제  - <a href="" >상세보기 - WIKI 이동</a>
+### - 스토리 리스트  - <a href="https://github.com/Heeseok1210/sunnyProject/wiki/%EC%BB%A4%EB%AE%A4%EB%8B%88%ED%8B%B0-%EB%A6%AC%EC%8A%A4%ED%8A%B8!!!" >상세보기 </a>
+### - 스토리 작성/읽기  - <a href="https://github.com/Heeseok1210/sunnyProject/wiki/%EC%BB%A4%EB%AE%A4%EB%8B%88%ED%8B%B0-%EC%93%B0%EA%B8%B0!!!" >상세보기 </a>
+### - 스토리 수정/삭제  - <a href="https://github.com/Heeseok1210/sunnyProject/wiki/%EC%BB%A4%EB%AE%A4%EB%8B%88%ED%8B%B0-%EC%88%98%EC%A0%95,-%EC%82%AD%EC%A0%9C!!!" >상세보기 </a>
 
 
 ##  흐름도
