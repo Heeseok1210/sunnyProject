@@ -84,4 +84,3 @@
 ## ERD
 ![KakaoTalk_20230808_120238404_04](https://github.com/Heeseok1210/sunnyProject/assets/126428471/ffcb92a3-0ba5-45a8-8739-30937f6f8c59)
 
-## 배운점 & 아쉬운점
